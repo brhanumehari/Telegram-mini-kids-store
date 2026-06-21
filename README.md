@@ -1,6 +1,6 @@
 # ENG_251885 APP — Telegram Mini Kids Store
 
-A production-ready Telegram Mini App (TMA) for a kids store (ages 0–16), built with a vanilla JS frontend, a secure PHP/MySQL backend, and a unified payment router covering Ethiopian and international gateways.
+A production-ready Telegram Mini App (TMA) for a kids store, built with a vanilla JS frontend, a secure PHP/MySQL backend, and a unified payment router covering Ethiopian and international gateways.
 
 **Repo:** [github.com/brhanumehari/Telegram-mini-kids-store](https://github.com/brhanumehari/Telegram-mini-kids-store)
 
