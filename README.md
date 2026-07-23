@@ -140,10 +140,9 @@ Telegram Stars checkout currently signals `type: 'telegram_invoice'` from `Payme
 
 ## 📄 License
 
-Proprietary — all rights reserved unless otherwise licensed by the author.
-
+Proprietary — all are free for use any....
 ---
 
 ## 👤 Author
 
-**ENG_251885** — Mechanical Engineer & Full-Stack Developer
+**ENG_251885** — Mechanical Engineer & ASQ engineer 
